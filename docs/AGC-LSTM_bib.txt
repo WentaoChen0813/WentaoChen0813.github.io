@@ -1,0 +1,7 @@
+@inproceedings{si2019attention,
+  title={An attention enhanced graph convolutional lstm network for skeleton-based action recognition},
+  author={Si, Chenyang and Chen, Wentao and Wang, Wei and Wang, Liang and Tan, Tieniu},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={1227--1236},
+  year={2019}
+}

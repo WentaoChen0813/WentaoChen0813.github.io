@@ -1,0 +1,6 @@
+@article{si2019progressive,
+  title={Progressive cluster purification for transductive few-shot learning},
+  author={Si, Chenyang and Chen, Wentao and Wang, Wei and Wang, Liang and Tan, Tieniu},
+  journal={arXiv preprint arXiv:1906.03847},
+  year={2019}
+}
