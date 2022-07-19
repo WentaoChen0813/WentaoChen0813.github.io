@@ -1,0 +1,6 @@
+@article{chen2022cdcs-fsl,
+  title={Cross-Domain Cross-Set Few-Shot Learning via Learning Compact and Aligned Representations},
+  author={Chen, Wentao and Zhang, Zhang and Wang, Wei and Wang, Liang and Wang, Zilei and Tan, Tieniu},
+  journal={arXiv preprint arXiv:2207.07826},
+  year={2022}
+}
